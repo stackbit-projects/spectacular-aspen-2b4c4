@@ -90,7 +90,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: This is Great
-    subtitle: He y Guys this is awesome
+    subtitle: Hey Guys this is awesome
     actions:
       - label: Get Started
         url: /signup
