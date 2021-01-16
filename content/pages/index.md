@@ -94,7 +94,7 @@ sections:
     actions:
       - label: Get Started
         url: /signup
-        style: primary
+        style: secondary
   - section_id: recent-posts
     type: section_posts
     background: gray
